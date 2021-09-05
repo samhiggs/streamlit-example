@@ -1,0 +1,1 @@
+{"n_features": 3, "n_classes": 4, "model_name": "RandomForestClassifier", "f1_score": 0.8642424242424243, "labels": {"0": "price_buyer", "1": "loyal_customer", "2": "value_buyer", "3": "high_value"}}
